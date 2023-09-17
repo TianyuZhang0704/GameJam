@@ -10,12 +10,12 @@ Animated Goat and Sheep: [https://assetstore.unity.com/packages/3d/characters/an
 Waste Can PBR: [https://assetstore.unity.com/packages/3d/props/waste-can-pbr-224775]
 
 ## Configuration
-Unity Editor: Unity 2021.3.20f1
-Universal RP: 12.1.10
-Animation Rigging: 1.1.1
-Animated Goat and Sheep: 1.0.0
-Starter Assets: 1.1.5
-Waste Can PBR: 1.0
+* Unity Editor: Unity 2021.3.20f1
+* Universal RP: 12.1.10
+* Animation Rigging: 1.1.1
+* Animated Goat and Sheep: 1.0.0
+* Starter Assets: 1.1.5
+* Waste Can PBR: 1.0
 
 ## Features I developed
 1. Rewrote the player push object script.
