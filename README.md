@@ -5,9 +5,9 @@ You play as an android. Your goal is to kick every green trash bin to the ground
 
 ## Assets used
 
-Starter Asset: [https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-urp-196526]
-Animated Goat and Sheep: [https://assetstore.unity.com/packages/3d/characters/animals/animated-goat-and-sheep-3d-low-poly-free-251910]
-Waste Can PBR: [https://assetstore.unity.com/packages/3d/props/waste-can-pbr-224775]
+* Starter Asset: [https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-urp-196526]
+* Animated Goat and Sheep: [https://assetstore.unity.com/packages/3d/characters/animals/animated-goat-and-sheep-3d-low-poly-free-251910]
+* Waste Can PBR: [https://assetstore.unity.com/packages/3d/props/waste-can-pbr-224775]
 
 ## Configuration
 * Unity Editor: Unity 2021.3.20f1
