@@ -28,6 +28,8 @@ You play as an android. Your goal is to kick every green trash bin to the ground
 8. Created an orange cube for the player to push to the corner and jump onto it. Otherwise the player will not be able to jump to the higher platform (also changed the default jumping arguments for the player in the original asset).
 9. Created a transparent platform for the player to figure out how to push the last trash can.
 10. Modified the platform to create more challenges for the level design.
+11. Created waste can and goat prefabs.
+12. Created colliders for the waste can and goat prefabs.
 
 ## Running the game
 Clone this repository and open `GameJam/GameJam1/` folder and a project in unity. Directly play the game in unity game mode.
