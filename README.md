@@ -32,4 +32,4 @@ You play as an android. Your goal is to kick every green trash bin to the ground
 12. Created colliders for the waste can and goat prefabs.
 
 ## Running the game
-Clone this repository and open `GameJam/GameJam1/` folder and a project in unity. Directly play the game in unity game mode.
+Clone this repository and open `GameJam/GameJam1/` folder and a project in unity. Directly play the game in unity game mode. Use WASD keys for moving and mouse for adjusting camera angles.
